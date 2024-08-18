@@ -9,7 +9,7 @@ body {
 }
 
 button {
-	background-color: red;
+	background-color: transparent;
 	border: none;
 	position: relative;
 	width: 400px;
